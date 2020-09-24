@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Different Widget</string>
+    <string name="radio_button_name">Radio Button</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="not_decided">Not Decided</string>
+    <string name="slider_name">Slider</string>
+    <string name="rate_app">Rate App</string>
+    <string name="toggle_button">Toggle Button</string>
+    <string name="toggle_button_result">Text is Visible</string>
+    <string name="checkbox_title">Check Box</string>
+    <string name="chkbox_value">Select Your Favourite color</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="black">Black</string>
+    <string name="chkBox_submit">Submit</string>
+</resources>
